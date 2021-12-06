@@ -1,0 +1,18 @@
+source|target|value
+Noblesse|à Noblesse|20.9504864247597
+Noblesse|à Laboureur|7.88555292843078
+Noblesse|à Paysan|2.15807523662423
+Noblesse|à Journalier|0.108338396445329
+Noblesse|à Commerce|29.7448374558045
+Noblesse|à Artisanat|0.561822427512097
+Noblesse|à Prof. libérale|2.65978083435206
+Noblesse|à Clergé|4.88273100600985
+Noblesse|à Inconnu|1.7309437884766
+Laboureur|à Noblesse|3.3008440146696
+Paysan|à Noblesse|2.25836145495538
+Journalier|à Noblesse|0.18620661889041
+Commerce|à Noblesse|20.9655842587238
+Artisanat|à Noblesse|0.379184387558653
+Prof. libérale|à Noblesse|0.354112832975865
+Clergé|à Noblesse|1.00926732499323
+Inconnu|à Noblesse|0.863870608817867
